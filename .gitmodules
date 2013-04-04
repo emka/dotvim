@@ -18,3 +18,7 @@
 	path = bundle/snipmate
 	url = https://github.com/msanders/snipmate.vim.git
 	ignore = dirty
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+	ignore = dirty
