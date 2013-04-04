@@ -14,3 +14,7 @@
 	path = bundle/autoclose
 	url = https://github.com/Townk/vim-autoclose.git
 	ignore = dirty
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = https://github.com/msanders/snipmate.vim.git
+	ignore = dirty
