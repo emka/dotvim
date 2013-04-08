@@ -15,6 +15,7 @@ filetype indent on
 
 source ~/.vim/typespecific.vim
 source ~/.vim/general.vim
+source ~/.vim/commands.vim
 
 if has('gui_running')
   source ~/.vim/gvimrc
