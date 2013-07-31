@@ -1,6 +1,6 @@
 " general options
 set number                              " show line numbering
-set mouse=a                             " Enable mouse in terminal
+"set mouse=a                             " Enable mouse in terminal
 set wildmenu                            " fancier completion
 set wildignore=*.o,*.obj,*~             " ignore while tab completing
 set incsearch                           " incremental search during search entry
@@ -23,3 +23,4 @@ set nojoinspaces                        " avoids to 2 spaces after dots when joi
 "set foldmethod=syntax                   " code folding
 set tags=./tags;$HOME                   " walk directory tree upto $HOME looking for tags
 set ls=2
+set textwidth=0 wrapmargin=0            " turn off physical line wrapping (automatic insertion of newlines)
