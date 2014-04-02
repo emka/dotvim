@@ -18,6 +18,7 @@ source ~/.vim/general.vim
 source ~/.vim/commands.vim
 source ~/.vim/pythonmode.vim
 source ~/.vim/powerline.vim
+source ~/.vim/latex.vim
 
 if has('gui_running')
   source ~/.vim/gvimrc
